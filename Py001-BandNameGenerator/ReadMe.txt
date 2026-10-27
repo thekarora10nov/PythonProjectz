@@ -1,5 +1,4 @@
 # Band Name Generator
-
 A beginner-friendly Python project that generates a band name using your birthplace and pet's name.
 
 ## Features
